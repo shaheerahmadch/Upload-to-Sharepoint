@@ -8,7 +8,7 @@ Discover a seamless experience uploading Files from Canvas Apps to SharePoint.
 📱 Enjoy a user-friendly, responsive design
 🌐 Stay connected with ease, anytime, anywhere
 
-![Screenshot 2023-09-02 130516](./assets/Screenshot%102023-11-10%20102848.png)
+![Screenshot 2023-09-02 130516](./assets/Screenshot%202023-11-10%20102848.png)
 
 ## Applies to
 
